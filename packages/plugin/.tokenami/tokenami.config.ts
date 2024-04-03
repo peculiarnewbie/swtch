@@ -60,5 +60,5 @@ export default createConfig({
 		"set-x": ["justify-content"],
 	},
 	themeSelector: (mode) =>
-		mode === "root" ? ":rt" : `.theme-light, .theme-dark`,
+		mode === "obsidian" ? `.theme-light, .theme-dark` : ":root",
 });

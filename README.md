@@ -1,3 +1,3 @@
 # swtch
 
-file first time tracker for use inside of Obsidian
+file first time tracker ala toggl

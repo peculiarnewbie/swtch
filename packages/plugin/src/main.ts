@@ -24,10 +24,7 @@ export default class MyPlugin extends Plugin {
 			console.log("cmon", workspace.getLeaf(false));
 			workspace.getRightLeaf(false)?.setViewState({
 				type: "swtch-view",
-				active: true,
 			});
-
-			workspace.revealLeaf(workspace.getLeavesOfType("swtch-view")[0]);
 		}
 	};
 
