@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-swtch",
+	"name": "Swtch Track Plugin",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Time tracking inside obsidian with plain text files",
+	"author": "Obsidian",
+	"authorUrl": "https://peculiarnewbie.com",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
